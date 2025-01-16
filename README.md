@@ -7,7 +7,6 @@
 		<img src="https://img.shields.io/static/v1?label=&message=Webpack&color=8DD6F9&style=for-the-badge&logo=webpack&logoColor=black&logoWidth=&labelColor=&link=">
 		<br>
 	</h1>
-	<h3><b><a href="https://clarasmyth.github.io/todo-list/">View Live Demo</a></b></h3>
 </div>
 
 ![Gif of Project](./readme-assets/Todo-List.gif)
